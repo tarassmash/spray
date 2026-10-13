@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Админ-панель</title>
+<link rel="icon" href="/favicon.svg">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+<div id="login" class="login" hidden>
+  <form class="login-card" id="login-form">
+    <div class="logo-mark"></div>
+    <h1>Вход в админ-панель</h1>
+    <label>Пароль<input type="password" name="password" autocomplete="current-password" required autofocus></label>
+    <button class="btn primary" type="submit">Войти</button>
+    <p class="err" id="login-err"></p>
+  </form>
+</div>
+
+<div id="app" class="app" hidden>
+  <aside class="side">
+    <div class="side-head"><div class="logo-mark sm"></div><strong id="site-name">Сайт</strong></div>
+    <nav id="tabs"></nav>
+    <div class="side-foot">
+      <a href="/" target="_blank" class="side-link">↗ Открыть сайт</a>
+      <button class="side-link" id="logout">⎋ Выйти</button>
+    </div>
+  </aside>
+  <main class="main">
+    <header class="top">
+      <button class="menu-btn" id="menu-btn" aria-label="Меню">☰</button>
+      <h2 id="tab-title"></h2>
+      <span class="dirty" id="dirty" hidden>● Есть несохранённые изменения</span>
+      <button class="btn primary" id="save" disabled>Сохранить</button>
+    </header>
+    <div class="content" id="content"></div>
+  </main>
+</div>
+
+<div class="modal" id="picker" hidden>
+  <div class="modal-card">
+    <div class="modal-head"><strong>Медиатека</strong><button class="x" data-close>×</button></div>
+    <div class="media-grid" id="picker-grid"></div>
+  </div>
+</div>
+<div class="toast" id="toast" hidden></div>
+<script src="/admin/admin.js"></script>
+</body>
+</html>

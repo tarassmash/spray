@@ -1,0 +1,22 @@
+{
+  "name": "spray-orihuela-site",
+  "version": "1.0.0",
+  "description": "Spray Orihuela website with admin panel, SEO and AI-search optimization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "compression": "^1.8.2",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.3.0",
+    "multer": "^2.4.0",
+    "sharp": "^0.35.5"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "private": true
+}
