@@ -1,0 +1,851 @@
+{
+  "site": {
+    "name": "Tony Spray Master",
+    "legalName": "Tony — spray painter in Orihuela Costa",
+    "ownerName": "Tony",
+    "ownerJobTitle": "Spray painter",
+    "url": "https://tonyspray.es",
+    "defaultLang": "en",
+    "phone": "+34 611 22 32 02",
+    "whatsapp": "34611223202",
+    "email": "",
+    "facebook": "https://www.facebook.com/spraykitchenorihuelacosta",
+    "instagram": "",
+    "googleBusiness": "",
+    "street": "",
+    "locality": "Orihuela Costa",
+    "region": "Alicante",
+    "postalCode": "03189",
+    "country": "ES",
+    "lat": "37.9368",
+    "lng": "-0.7397",
+    "serviceRadiusKm": "50",
+    "openingHours": "Mo-Fr 08:00-18:00\nSa 09:00-13:00",
+    "priceRange": "€€",
+    "logo": "",
+    "favicon": "",
+    "whatsappText": {
+      "en": "Hi Tony, could I get a quote please?",
+      "es": "Hola Tony, quisiera un presupuesto para lacar…"
+    }
+  },
+  "theme": {
+    "primary": "#24324d",
+    "accent": "#7d8f6e",
+    "accentSoft": "#e7ebe1",
+    "bg": "#f8f6f1",
+    "surface": "#ffffff",
+    "text": "#1d2433",
+    "muted": "#5d6575",
+    "fontHeading": "Fraunces",
+    "fontBody": "Inter",
+    "radius": "14"
+  },
+  "seo": {
+    "en": {
+      "title": "Kitchen & Door Spraying Orihuela Costa | Tony Spray Master",
+      "description": "Tony, spray painter in Orihuela Costa. I collect, spray and refit kitchen, interior and wardrobe doors within 50 km of Alicante. Kitchens from €550. Free quote.",
+      "keywords": "Tony Spray Master, kitchen spraying Orihuela Costa, kitchen cabinet respray Spain, pine door spraying Torrevieja, spray painting Alicante, wardrobe refinishing, kitchen makeover Costa Blanca"
+    },
+    "es": {
+      "title": "Lacado de cocinas y puertas en Orihuela Costa | Tony Spray Master",
+      "description": "Tony, pintor de lacado a pistola en Orihuela Costa. Recojo, laco y monto puertas de cocina, de paso y armarios a 50 km de Alicante. Cocinas desde 550 €.",
+      "keywords": "Tony Spray Master, lacado de cocinas Orihuela Costa, pintar muebles de cocina, lacar puertas Torrevieja, pintura a pistola Alicante, lacado de armarios, renovar cocina sin obras"
+    },
+    "ogImage": "https://jade-sherbet-38c58f.netlify.app/img/hero-kitchen.jpg",
+    "indexing": true,
+    "allowAiSearch": true,
+    "allowAiTraining": true,
+    "extraRobots": "",
+    "aiSummary": {
+      "en": "Tony Spray Master is Tony, an independent (self-employed) spray painter based in Orihuela Costa, Alicante, Spain. He resprays kitchen cabinets, interior pine/wood doors and fitted wardrobes for homes within about 50 km of Alicante. Tony personally gives the quote, collects the doors, sprays them in his own workshop booth and fits them back. Kitchens from €550, doors from €130, wardrobes from €290. Turnaround 5–10 working days. English and Spanish spoken. Free quotes on WhatsApp +34 611 22 32 02.",
+      "es": "Tony Spray Master es Tony, pintor autónomo especializado en lacado a pistola, con taller en Orihuela Costa, Alicante. Laca muebles de cocina, puertas de paso de pino o madera y armarios empotrados en un radio de unos 50 km de Alicante. Tony hace personalmente el presupuesto, recoge las piezas, las laca en su cabina y las vuelve a montar. Cocinas desde 550 €, puertas desde 130 €, armarios desde 290 €. Plazo 5–10 días laborables. Se habla español e inglés. Presupuesto gratis por WhatsApp +34 611 22 32 02."
+    }
+  },
+  "integrations": {
+    "ga4Id": "",
+    "gtmId": "",
+    "gscVerification": "",
+    "bingVerification": "",
+    "yandexVerification": "",
+    "fbPixelId": "",
+    "fbCapiToken": "",
+    "fbTestEventCode": "",
+    "fbDomainVerification": "",
+    "indexNowKey": "49be2c7ac42a5077e20a23cceae12a25",
+    "consentBanner": true,
+    "headCode": "",
+    "bodyCode": ""
+  },
+  "notifications": {
+    "telegramBotToken": "",
+    "telegramChatId": "",
+    "webhookUrl": ""
+  },
+  "sections": {
+    "services": true,
+    "process": true,
+    "compare": true,
+    "gallery": true,
+    "reviews": true,
+    "about": true,
+    "area": true,
+    "faq": true,
+    "quote": true
+  },
+  "ui": {
+    "navServices": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "navProcess": {
+      "en": "How I work",
+      "es": "Cómo trabajo"
+    },
+    "navGallery": {
+      "en": "My work",
+      "es": "Mis trabajos"
+    },
+    "navAbout": {
+      "en": "About me",
+      "es": "Sobre mí"
+    },
+    "navReviews": {
+      "en": "Reviews",
+      "es": "Opiniones"
+    },
+    "navFaq": {
+      "en": "FAQ",
+      "es": "Preguntas"
+    },
+    "ctaQuote": {
+      "en": "Request a free quote",
+      "es": "Pedir presupuesto gratis"
+    },
+    "ctaWhatsapp": {
+      "en": "WhatsApp Tony for a quote",
+      "es": "Pedir presupuesto a Tony"
+    },
+    "from": {
+      "en": "from",
+      "es": "desde"
+    },
+    "callUs": {
+      "en": "Call Tony",
+      "es": "Llame a Tony"
+    },
+    "formName": {
+      "en": "Name",
+      "es": "Nombre"
+    },
+    "formPhone": {
+      "en": "Phone",
+      "es": "Teléfono"
+    },
+    "formEmail": {
+      "en": "Email (optional)",
+      "es": "Email (opcional)"
+    },
+    "formTown": {
+      "en": "Town",
+      "es": "Localidad"
+    },
+    "formService": {
+      "en": "Service",
+      "es": "Servicio"
+    },
+    "formMessage": {
+      "en": "Message",
+      "es": "Mensaje"
+    },
+    "formSend": {
+      "en": "Send request",
+      "es": "Enviar solicitud"
+    },
+    "formSuccess": {
+      "en": "Thanks! I’ll get back to you within 24 hours. — Tony",
+      "es": "¡Gracias! Le contesto en menos de 24 horas. — Tony"
+    },
+    "formError": {
+      "en": "Something went wrong. Please call me or send me a WhatsApp.",
+      "es": "Algo ha fallado. Llámeme o escríbame por WhatsApp."
+    },
+    "cookieText": {
+      "en": "This site uses cookies for analytics and advertising. You can accept or reject them.",
+      "es": "Este sitio usa cookies de analítica y publicidad. Puede aceptarlas o rechazarlas."
+    },
+    "cookieAccept": {
+      "en": "Accept",
+      "es": "Aceptar"
+    },
+    "cookieReject": {
+      "en": "Reject",
+      "es": "Rechazar"
+    },
+    "cookieMore": {
+      "en": "Cookie policy",
+      "es": "Política de cookies"
+    },
+    "rights": {
+      "en": "All rights reserved.",
+      "es": "Todos los derechos reservados."
+    },
+    "home": {
+      "en": "Home",
+      "es": "Inicio"
+    }
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Tony · spray painter in Orihuela Costa",
+      "es": "Tony · lacado a pistola en Orihuela Costa"
+    },
+    "title": {
+      "en": "Your kitchen like new,",
+      "es": "Su cocina como nueva,"
+    },
+    "titleAccent": {
+      "en": "without a new kitchen.",
+      "es": "sin obras ni cambiar muebles."
+    },
+    "text": {
+      "en": "I’m Tony. I collect your kitchen doors, interior doors and wardrobe doors, spray them in my own workshop and fit them back myself. A smooth factory finish with no brush marks — anywhere within 50 km of Alicante.",
+      "es": "Soy Tony. Recojo sus puertas de cocina, puertas de paso y armarios, los laco a pistola en mi propio taller y se los vuelvo a montar yo mismo. Acabado liso de fábrica, sin marcas de brocha, a 50 km de Alicante."
+    },
+    "badges": {
+      "en": "Free quote from Tony\nI collect & refit myself\nNo brush marks",
+      "es": "Presupuesto gratis\nRecojo y monto yo mismo\nSin marcas de brocha"
+    },
+    "image": "https://jade-sherbet-38c58f.netlify.app/img/hero-kitchen.jpg",
+    "alt": {
+      "en": "Sage green sprayed kitchen cabinets in an Orihuela Costa villa",
+      "es": "Cocina lacada en verde salvia en una villa de Orihuela Costa"
+    },
+    "priceLabel": {
+      "en": "Kitchens from",
+      "es": "Cocinas desde"
+    },
+    "priceValue": "550 €"
+  },
+  "services": {
+    "eyebrow": {
+      "en": "Services & prices",
+      "es": "Servicios y precios"
+    },
+    "title": {
+      "en": "What I spray — and what it costs",
+      "es": "Qué laco y cuánto cuesta"
+    },
+    "text": {
+      "en": "Guide prices. Send me photos or measurements and I’ll give you a fixed price, free of charge.",
+      "es": "Precios orientativos. Envíeme fotos o medidas y le doy un precio cerrado, sin compromiso."
+    },
+    "note": {
+      "en": "Kitchen price depends on the number of doors and fronts. VAT and travel within my area are confirmed in your quote.",
+      "es": "El precio de la cocina depende del número de frentes. IVA y desplazamiento dentro de mi zona, confirmados en el presupuesto."
+    },
+    "items": [
+      {
+        "title": {
+          "en": "Kitchen cabinet spraying",
+          "es": "Lacado de muebles de cocina"
+        },
+        "price": "550",
+        "text": {
+          "en": "I respray your kitchen doors, drawer fronts and panels with tough paint that resists stains, moisture and everyday wear.",
+          "es": "Renuevo frentes, puertas y cajones de su cocina con pintura de poliuretano resistente a manchas, humedad y uso diario."
+        },
+        "bullets": {
+          "en": "Cleaning, degreasing and sanding\nPriming and spray finish\nAny RAL colour — matt, satin or gloss",
+          "es": "Limpieza, lijado y desengrasado\nImprimación y lacado a pistola\nCualquier color RAL, mate, satinado o brillo"
+        },
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/hero-kitchen.jpg",
+        "alt": {
+          "en": "Sage green sprayed kitchen cabinets in an Orihuela Costa villa",
+          "es": "Cocina lacada en verde salvia en una villa de Orihuela Costa"
+        }
+      },
+      {
+        "title": {
+          "en": "Pine & wood door spraying",
+          "es": "Lacado de puertas de pino y madera"
+        },
+        "price": "130",
+        "text": {
+          "en": "I turn dated orange pine doors into crisp white or coloured doors with an even, hard-wearing finish.",
+          "es": "Transformo puertas de pino barnizado en puertas blancas o de color con un acabado uniforme y duradero."
+        },
+        "bullets": {
+          "en": "Stripping and sanding old varnish\nPriming, staining or painting\nProtective topcoat",
+          "es": "Decapado y lijado del barniz\nImprimación, tinte o laca\nCapa protectora final"
+        },
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/doors.jpg",
+        "alt": {
+          "en": "Interior doors sprayed in satin white in the workshop",
+          "es": "Puertas de paso lacadas en blanco satinado en el taller"
+        }
+      },
+      {
+        "title": {
+          "en": "Wardrobe refinishing",
+          "es": "Lacado de armarios empotrados"
+        },
+        "price": "290",
+        "text": {
+          "en": "I refresh your fitted wardrobes so they match the new style of your home.",
+          "es": "Actualizo las puertas de sus armarios para que combinen con el nuevo estilo de su casa."
+        },
+        "bullets": {
+          "en": "Premium materials\nOptional new handles and hinges\nMinimal time without wardrobe doors",
+          "es": "Materiales de primera calidad\nHerrajes y tiradores nuevos opcionales\nMínimo tiempo sin armario"
+        },
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/wardrobe.jpg",
+        "alt": {
+          "en": "Fitted wardrobe sprayed off-white in a Mediterranean bedroom",
+          "es": "Armario empotrado lacado en blanco roto en un dormitorio mediterráneo"
+        }
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": {
+      "en": "How I work",
+      "es": "Cómo trabajo"
+    },
+    "title": {
+      "en": "I collect, spray & refit — that simple",
+      "es": "Recojo, laco y monto. Así de fácil."
+    },
+    "text": {
+      "en": "You keep living in your home while I do the work in my workshop.",
+      "es": "Usted sigue usando su casa mientras yo trabajo en el taller."
+    },
+    "image": "https://jade-sherbet-38c58f.netlify.app/img/workshop.jpg",
+    "alt": {
+      "en": "Spray gun finishing a kitchen door in a spray booth",
+      "es": "Lacado a pistola de una puerta de cocina en cabina de pintura"
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Free quote",
+          "es": "Presupuesto gratis"
+        },
+        "text": {
+          "en": "Send me photos on WhatsApp or fill in the form. I reply with a price and a date.",
+          "es": "Envíeme fotos por WhatsApp o rellene el formulario. Le respondo con precio y fecha."
+        }
+      },
+      {
+        "title": {
+          "en": "Pick up",
+          "es": "Recogida"
+        },
+        "text": {
+          "en": "I take off and collect your doors and fronts myself, anywhere within 50 km.",
+          "es": "Desmonto y recojo yo mismo las puertas y frentes en su casa, en un radio de 50 km."
+        }
+      },
+      {
+        "title": {
+          "en": "Spraying in my workshop",
+          "es": "Lacado en mi taller"
+        },
+        "text": {
+          "en": "Sanding, priming and spray finishing in my booth, with controlled drying.",
+          "es": "Lijado, imprimación y lacado a pistola en mi cabina, con secado controlado."
+        }
+      },
+      {
+        "title": {
+          "en": "Return & refit",
+          "es": "Entrega y montaje"
+        },
+        "text": {
+          "en": "I bring everything back and refit it myself, adjusted and clean. No fumes or dust at home.",
+          "es": "Lo devuelvo y lo monto yo mismo, ajustado y limpio. Sin olores ni polvo en su casa."
+        }
+      }
+    ]
+  },
+  "compare": {
+    "eyebrow": {
+      "en": "Spray vs. brush",
+      "es": "Pistola vs. brocha"
+    },
+    "title": {
+      "en": "Why spray instead of brush?",
+      "es": "¿Por qué lacar a pistola?"
+    },
+    "colA": {
+      "en": "Spray finish",
+      "es": "Lacado a pistola"
+    },
+    "colB": {
+      "en": "Brush & roller",
+      "es": "Pintado a brocha"
+    },
+    "rows": [
+      {
+        "label": {
+          "en": "Finish",
+          "es": "Acabado"
+        },
+        "a": {
+          "en": "Sleek, even, factory-like",
+          "es": "Liso, uniforme, como de fábrica"
+        },
+        "b": {
+          "en": "Brush marks and streaks",
+          "es": "Marcas de brocha y rodillo"
+        }
+      },
+      {
+        "label": {
+          "en": "Durability",
+          "es": "Durabilidad"
+        },
+        "a": {
+          "en": "Resists stains, moisture and wear",
+          "es": "Resiste manchas, humedad y desgaste"
+        },
+        "b": {
+          "en": "Chips with daily use",
+          "es": "Se desconcha con el uso"
+        }
+      },
+      {
+        "label": {
+          "en": "Disruption",
+          "es": "Molestias"
+        },
+        "a": {
+          "en": "Done in my workshop",
+          "es": "Trabajo en mi taller, casa limpia"
+        },
+        "b": {
+          "en": "Mess and fumes at home",
+          "es": "Olor y desorden en casa"
+        }
+      },
+      {
+        "label": {
+          "en": "Drying",
+          "es": "Secado"
+        },
+        "a": {
+          "en": "Fast and controlled",
+          "es": "Rápido y controlado"
+        },
+        "b": {
+          "en": "Slow — days of waiting",
+          "es": "Lento, días de espera"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": {
+      "en": "My work · before & after",
+      "es": "Mis trabajos · antes y después"
+    },
+    "title": {
+      "en": "What your home could look like",
+      "es": "Así puede quedar su casa"
+    },
+    "text": {
+      "en": "Pine kitchens, varnished doors and wardrobes that look brand new after a professional spray.",
+      "es": "Cocinas de pino, puertas barnizadas y armarios que vuelven a parecer nuevos con un buen lacado."
+    },
+    "items": [
+      {
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/before-after.jpg",
+        "caption": {
+          "en": "Pine kitchen · before & after",
+          "es": "Cocina de pino · antes y después"
+        },
+        "alt": {
+          "en": "Before and after: varnished pine kitchen sprayed warm grey",
+          "es": "Antes y después: cocina de pino barnizado lacada en gris cálido"
+        }
+      },
+      {
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/workshop.jpg",
+        "caption": {
+          "en": "Spraying in my booth",
+          "es": "Lacado en mi cabina"
+        },
+        "alt": {
+          "en": "Spray gun finishing a kitchen door in a spray booth",
+          "es": "Lacado a pistola de una puerta de cocina en cabina de pintura"
+        }
+      },
+      {
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/doors.jpg",
+        "caption": {
+          "en": "Pine doors sprayed white",
+          "es": "Puertas de pino lacadas en blanco"
+        },
+        "alt": {
+          "en": "Pine doors resprayed in white",
+          "es": "Puertas de pino lacadas en blanco"
+        }
+      },
+      {
+        "image": "https://jade-sherbet-38c58f.netlify.app/img/hero-kitchen.jpg",
+        "caption": {
+          "en": "Kitchen sprayed sage green",
+          "es": "Cocina lacada en verde salvia"
+        },
+        "alt": {
+          "en": "Sage green sprayed kitchen with white worktop",
+          "es": "Cocina lacada en verde salvia con encimera blanca"
+        }
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": {
+      "en": "Reviews",
+      "es": "Opiniones"
+    },
+    "title": {
+      "en": "What my customers say",
+      "es": "Lo que dicen mis clientes"
+    },
+    "text": {
+      "en": "Verified reviews from my customers on Facebook.",
+      "es": "Reseñas verificadas de mis clientes en Facebook."
+    },
+    "linkLabel": {
+      "en": "Read all reviews on Facebook",
+      "es": "Leer todas las opiniones en Facebook"
+    },
+    "linkUrl": "https://www.facebook.com/spraykitchenorihuelacosta/reviews",
+    "items": [
+      {
+        "name": "Barry Gaffney",
+        "town": "Orihuela Costa",
+        "rating": "5",
+        "service": {
+          "en": "Kitchen respray",
+          "es": "Lacado de cocina"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "name": "Louise Commins",
+        "town": "Los Montesinos",
+        "rating": "5",
+        "service": {
+          "en": "Kitchen respray",
+          "es": "Lacado de cocina"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "name": "Mark Newall",
+        "town": "Orihuela Costa",
+        "rating": "5",
+        "service": {
+          "en": "Kitchen cupboard doors",
+          "es": "Puertas de armarios de cocina"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "name": "Julia Margaret Clarke",
+        "town": "Torrevieja",
+        "rating": "5",
+        "service": {
+          "en": "Interior doors",
+          "es": "Puertas de paso"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "name": "Yvonne Colclough",
+        "town": "Los Montesinos",
+        "rating": "5",
+        "service": {
+          "en": "Kitchen respray",
+          "es": "Lacado de cocina"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "name": "Kevin Carthy",
+        "town": "Torrevieja",
+        "rating": "5",
+        "service": {
+          "en": "Bedroom doors & wardrobes",
+          "es": "Puertas y armarios de dormitorio"
+        },
+        "text": {
+          "en": "",
+          "es": ""
+        }
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": {
+      "en": "About me",
+      "es": "Sobre mí"
+    },
+    "title": {
+      "en": "Hi, I’m Tony",
+      "es": "Hola, soy Tony"
+    },
+    "image": "",
+    "alt": {
+      "en": "Tony, spray painter in Orihuela Costa",
+      "es": "Tony, pintor de lacado en Orihuela Costa"
+    },
+    "text": {
+      "en": "I’m Tony — Tony Spray Master. I work for myself from my spray workshop in Orihuela Costa.\nWhen you message or call, you talk to me. I look at your photos, give you the price, collect your doors, spray them and fit them back. You deal with one person from the first photo to the last hinge — and because my name is on every job, I take care of the finish.",
+      "es": "Soy Tony — Tony Spray Master. Trabajo por mi cuenta desde mi taller de lacado en Orihuela Costa.\nCuando me escribe o me llama, habla conmigo. Miro sus fotos, le doy el precio, recojo las puertas, las laco y se las vuelvo a montar. Trata con una sola persona desde la primera foto hasta la última bisagra, y como cada trabajo lleva mi nombre, cuido el acabado."
+    },
+    "signature": "— Tony",
+    "facts": [
+      {
+        "label": {
+          "en": "Who",
+          "es": "Quién"
+        },
+        "value": {
+          "en": "Tony, independent spray painter",
+          "es": "Tony, pintor autónomo de lacado"
+        }
+      },
+      {
+        "label": {
+          "en": "Speciality",
+          "es": "Especialidad"
+        },
+        "value": {
+          "en": "Spraying kitchen cabinets, pine doors and wardrobes",
+          "es": "Lacado a pistola de cocinas, puertas de pino y armarios"
+        }
+      },
+      {
+        "label": {
+          "en": "Area",
+          "es": "Zona"
+        },
+        "value": {
+          "en": "Orihuela Costa, Torrevieja and up to 50 km from Alicante",
+          "es": "Orihuela Costa, Torrevieja y hasta 50 km de Alicante"
+        }
+      },
+      {
+        "label": {
+          "en": "Prices",
+          "es": "Precios"
+        },
+        "value": {
+          "en": "Kitchens from €550, doors from €130, wardrobes from €290",
+          "es": "Cocinas desde 550 €, puertas desde 130 €, armarios desde 290 €"
+        }
+      },
+      {
+        "label": {
+          "en": "Turnaround",
+          "es": "Plazo"
+        },
+        "value": {
+          "en": "Usually 5–10 working days",
+          "es": "Normalmente 5–10 días laborables"
+        }
+      },
+      {
+        "label": {
+          "en": "Languages",
+          "es": "Idiomas"
+        },
+        "value": {
+          "en": "English and Spanish",
+          "es": "Español e inglés"
+        }
+      },
+      {
+        "label": {
+          "en": "Quote",
+          "es": "Presupuesto"
+        },
+        "value": {
+          "en": "Free — send me photos on WhatsApp",
+          "es": "Gratis: envíeme fotos por WhatsApp"
+        }
+      }
+    ]
+  },
+  "area": {
+    "eyebrow": {
+      "en": "Service area",
+      "es": "Zona de servicio"
+    },
+    "title": {
+      "en": "Where I work: Orihuela Costa, Torrevieja and nearby",
+      "es": "Dónde trabajo: Orihuela Costa, Torrevieja y alrededores"
+    },
+    "text": {
+      "en": "I cover roughly 50 km around Alicante and collect from your door in:",
+      "es": "Trabajo en un radio de unos 50 km de Alicante y recojo a domicilio en:"
+    },
+    "towns": "Orihuela Costa\nOrihuela\nTorrevieja\nLos Montesinos\nPlaya Flamenca\nLa Zenia\nCabo Roig\nVillamartín\nCampoamor\nPilar de la Horadada\nGuardamar del Segura\nRojales\nCiudad Quesada\nSan Miguel de Salinas\nAlgorfa\nBenijófar\nAlmoradí\nSanta Pola\nElche\nAlicante\nMurcia\nSan Pedro del Pinatar"
+  },
+  "faq": {
+    "eyebrow": {
+      "en": "FAQ",
+      "es": "Preguntas frecuentes"
+    },
+    "title": {
+      "en": "Questions people ask me",
+      "es": "Lo que más me preguntan"
+    },
+    "items": [
+      {
+        "q": {
+          "en": "How much does it cost to spray a kitchen?",
+          "es": "¿Cuánto cuesta lacar una cocina?"
+        },
+        "a": {
+          "en": "Kitchen cabinet spraying starts from €550, depending on the number of doors and drawer fronts. Send me photos and I’ll give you a fixed, free quote.",
+          "es": "El lacado de muebles de cocina empieza desde 550 €, según el número de puertas y frentes. Envíeme fotos y le doy un presupuesto cerrado y gratuito."
+        }
+      },
+      {
+        "q": {
+          "en": "How long will I be without my kitchen doors?",
+          "es": "¿Cuánto tiempo estaré sin puertas de cocina?"
+        },
+        "a": {
+          "en": "Usually 5 to 10 working days. I collect and return on agreed dates and your kitchen stays usable in the meantime.",
+          "es": "Normalmente entre 5 y 10 días laborables. Recojo y devuelvo en la fecha acordada, y la cocina se puede usar mientras tanto."
+        }
+      },
+      {
+        "q": {
+          "en": "Can you spray orange pine doors white?",
+          "es": "¿Se pueden lacar puertas de pino barnizadas?"
+        },
+        "a": {
+          "en": "Yes. I sand back the varnish, apply a knot-blocking primer so the wood does not bleed through, then spray your chosen colour. From €130 per door.",
+          "es": "Sí. Lijo el barniz, aplico una imprimación especial para que no salgan los nudos de la madera y laco en el color que elija. Desde 130 € por puerta."
+        }
+      },
+      {
+        "q": {
+          "en": "Which colours can I choose?",
+          "es": "¿Qué colores puedo elegir?"
+        },
+        "a": {
+          "en": "Any RAL or NCS colour, in matt, satin or gloss. I can show you samples before I start.",
+          "es": "Cualquier color de la carta RAL o NCS, en acabado mate, satinado o brillo. Puedo enseñarle muestras antes de empezar."
+        }
+      },
+      {
+        "q": {
+          "en": "Which areas do you cover?",
+          "es": "¿En qué zonas trabaja?"
+        },
+        "a": {
+          "en": "Orihuela Costa, Torrevieja, Los Montesinos, Pilar de la Horadada, Guardamar, Ciudad Quesada and anywhere within about 50 km of Alicante.",
+          "es": "En Orihuela Costa, Torrevieja, Los Montesinos, Pilar de la Horadada, Guardamar, Ciudad Quesada y cualquier localidad a unos 50 km de Alicante."
+        }
+      },
+      {
+        "q": {
+          "en": "Who will actually do the work?",
+          "es": "¿Quién hace el trabajo?"
+        },
+        "a": {
+          "en": "Me, Tony. I give you the quote, collect the doors, spray them and fit them back myself, so you always know who is coming to your home.",
+          "es": "Yo, Tony. Hago el presupuesto, recojo las puertas, las laco y las vuelvo a montar personalmente, así siempre sabe quién entra en su casa."
+        }
+      }
+    ]
+  },
+  "quote": {
+    "eyebrow": {
+      "en": "Free quote",
+      "es": "Presupuesto gratis"
+    },
+    "title": {
+      "en": "Tell me what you want to refresh",
+      "es": "Cuénteme qué quiere renovar"
+    },
+    "text": {
+      "en": "I reply within 24 hours. For the fastest quote, send me a few photos on WhatsApp.",
+      "es": "Le contesto en menos de 24 horas. Para ir más rápido, envíeme unas fotos por WhatsApp."
+    },
+    "options": {
+      "en": "Kitchen spraying\nDoor spraying\nWardrobe refinishing\nOther furniture",
+      "es": "Lacado de cocina\nLacado de puertas\nLacado de armarios\nOtros muebles"
+    },
+    "privacy": {
+      "en": "I only use your details to reply to your request.",
+      "es": "Solo uso sus datos para responder a su solicitud."
+    }
+  },
+  "footer": {
+    "tagline": {
+      "en": "Tony — independent spray painter for kitchens, doors and wardrobes.",
+      "es": "Tony — pintor autónomo de lacado de cocinas, puertas y armarios."
+    },
+    "area": {
+      "en": "Orihuela Costa · Alicante ±50 km",
+      "es": "Orihuela Costa · Alicante ±50 km"
+    }
+  },
+  "pages": [
+    {
+      "slug": "privacy",
+      "inFooter": true,
+      "title": {
+        "en": "Privacy policy",
+        "es": "Política de privacidad"
+      },
+      "description": {
+        "en": "How Tony Spray Master handles your personal data.",
+        "es": "Cómo trata Tony Spray Master sus datos personales."
+      },
+      "body": {
+        "en": "## Who I am\nTony (Tony Spray Master), self-employed spray painter, Orihuela Costa, Alicante, Spain. Contact: +34 611 22 32 02.\n\n## What data I collect\nWhen you send the quote form I store your name, phone, optional email, town and message, only to reply to your request and prepare a quote.\n\n## Legal basis and retention\nYour consent and pre-contractual measures (GDPR art. 6.1.a and 6.1.b). I keep the data while needed to handle your request and then delete it.\n\n## Your rights\nYou can ask me for access, correction or deletion of your data at any time. You can also complain to the Spanish Data Protection Agency (aepd.es).",
+        "es": "## Quién soy\nTony (Tony Spray Master), pintor autónomo de lacado, Orihuela Costa, Alicante, España. Contacto: +34 611 22 32 02.\n\n## Qué datos recojo\nCuando envía el formulario guardo su nombre, teléfono, email opcional, localidad y mensaje, solo para responder a su solicitud y preparar el presupuesto.\n\n## Base legal y conservación\nSu consentimiento y medidas precontractuales (RGPD art. 6.1.a y 6.1.b). Conservo los datos mientras sea necesario para gestionar su solicitud y después los elimino.\n\n## Sus derechos\nPuede pedirme el acceso, rectificación o supresión de sus datos en cualquier momento. También puede reclamar ante la Agencia Española de Protección de Datos (aepd.es)."
+      }
+    },
+    {
+      "slug": "cookies",
+      "inFooter": true,
+      "title": {
+        "en": "Cookie policy",
+        "es": "Política de cookies"
+      },
+      "description": {
+        "en": "Which cookies this website uses.",
+        "es": "Qué cookies utiliza este sitio web."
+      },
+      "body": {
+        "en": "## Cookies used on this site\n- **Necessary**: remember your cookie choice.\n- **Analytics** (Google Analytics): anonymous statistics about visits. Only after you accept.\n- **Advertising** (Meta Pixel): measure my Facebook ads. Only after you accept.\n\n## Change your choice\nClear the cookies of this site in your browser and the banner will appear again.",
+        "es": "## Cookies de este sitio\n- **Necesarias**: recordar su elección sobre cookies.\n- **Analítica** (Google Analytics): estadísticas anónimas de visitas. Solo si acepta.\n- **Publicidad** (Meta Pixel): medir mis anuncios de Facebook. Solo si acepta.\n\n## Cambiar su elección\nBorre las cookies de este sitio en su navegador y el aviso volverá a aparecer."
+      }
+    }
+  ]
+}
